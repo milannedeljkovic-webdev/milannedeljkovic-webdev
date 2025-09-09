@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Milan Nedeljković
 
-<!--
-**milannedeljkovic-webdev/milannedeljkovic-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | .NET, C#, SQL, Cloud
 
-Here are some ideas to get you started:
+Passionate about building robust and scalable backend systems.  
+Specializujem se za:
+- **C# | ASP.NET Core | REST API**
+- **SQL Server | EF Core | SQL Optimization**
+- **Microservices | Docker | Cloud Deployments**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Projekti (pinovani na profilu)
+- **aspnet-demo-final** — Production-ready .NET API demo
+- **netcore-rest-starter** — Starter REST API template
+- **microservices-demo-** — Microservices arhitektura sa Docker-om
+- **sql-optimization-** — Primeri optimizacije SQL upita
+- **portfolio-site** — Moj lični portfolio
+
+---
+
+### 📫 Kontakt  
+- [GitHub](https://github.com/milannedeljkovic-webdev)
+- Email: milan.nedeljkovic.webdev@gmail.com <!-- upiši pravi email! -->
+
+---
+
+**Uživam u rešavanju kompleksnih problema, automatizaciji procesa i učenju novih tehnologija. Slobodno me kontaktiraj za saradnju ili konsultacije!**
