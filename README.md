@@ -21,7 +21,7 @@ Specializujem se za:
 
 ### 📫 Kontakt  
 - [GitHub](https://github.com/milannedeljkovic-webdev)
-- Email: milan.nedeljkovic.webdev@gmail.com <!-- upiši pravi email! -->
+- Email: milan.nedeljkovic.mht@gmail.com <!-- upiši pravi email! -->
 
 ---
 
