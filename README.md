@@ -2,27 +2,25 @@
 
 ## 🚀 Backend Developer | .NET, C#, SQL, Cloud
 
-Passionate about building robust and scalable backend systems.  
-Specializujem se za:
+Passionate about building robust and scalable backend systems.
+Specialized in:
 - **C# | ASP.NET Core | REST API**
 - **SQL Server | EF Core | SQL Optimization**
 - **Microservices | Docker | Cloud Deployments**
 
 ---
 
-### 🧑‍💻 Projekti (pinovani na profilu)
+### 🧑‍💻 Projects (pinned on profile)
 - **aspnet-demo-final** — Production-ready .NET API demo
 - **netcore-rest-starter** — Starter REST API template
-- **microservices-demo-** — Microservices arhitektura sa Docker-om
-- **sql-optimization-** — Primeri optimizacije SQL upita
-- **portfolio-site** — Moj lični portfolio
+- **microservices-demo-** — Microservices architecture with Docker
+- **sql-optimization-** — Examples of SQL query optimization
+- **portfolio-site** — My personal portfolio
 
 ---
 
-### 📫 Kontakt  
+### 📫 Contact
 - [GitHub](https://github.com/milannedeljkovic-webdev)
-- Email: milan.nedeljkovic.mht@gmail.com <!-- upiši pravi email! -->
+- Email: milan.nedeljkovic.mht@gmail.com ---
 
----
-
-**Uživam u rešavanju kompleksnih problema, automatizaciji procesa i učenju novih tehnologija. Slobodno me kontaktiraj za saradnju ili konsultacije!**
+**I enjoy solving complex problems, automating processes, and learning new technologies. Feel free to contact me for collaboration or consultation!**
